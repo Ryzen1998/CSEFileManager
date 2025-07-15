@@ -1,0 +1,1100 @@
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"starting up.."}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 12:01:18:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:01:39:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:03:55:1633","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:02:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:05:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:07:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:09:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:10:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:11:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:12:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:13:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:14:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:16:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:17:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:19:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:21:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:24:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:26:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:27:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:29:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:31:1643","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:04:41:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:06:27:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:06:37:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"starting job.."}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"job count: 2"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"starting job 1"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"starting job 2"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/06/16 15:07:44:000","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"starting job.."}
+{"level":"info","time":"2025/07/05 16:58:26","message":"Starting archiver.."}
+{"level":"info","time":"2025/07/05 16:58:26","message":"archive job count: 2"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"starting job 1"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"searching files with pattern *.csv*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"no files found with pattern *.csv*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"starting job 2"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"searching files with pattern *.txt*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"no files found with pattern *.txt*"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"Archiving completed"}
+{"level":"info","time":"2025/07/05 16:58:26","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"starting job.."}
+{"level":"info","time":"2025/07/05 21:30:11","message":"Starting archiver.."}
+{"level":"info","time":"2025/07/05 21:30:11","message":"archive job count: 2"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/logs1"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_FILE_PATTERNS1=*.log*+*.csv*"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_PATTERN_SEPARATOR1=+"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_OLDER_THAN1=0"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_DELETE_ORIGINAL_FILE1=true"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"parsing job details for job 2"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_FROM_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/test/logs2"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_TO_PATH2=/Users/ashwin/Projects/golang/CSEFileManager/backup"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_FILE_PATTERNS2=*.txt*"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_PATTERN_SEPARATOR2=+"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_OLDER_THAN2=0"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"ARCHIVE_DELETE_ORIGINAL_FILE2=true"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"starting job 1"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"searching files with pattern *.log*"}
+{"level":"info","time":"2025/07/05 21:30:11","message":"no files found with pattern *.log*"}
+{"level":"info","time":"2025/07/05 21:34:54","message":"starting job.."}
+{"level":"info","time":"2025/07/05 21:34:54","message":"Starting archiver.."}
+{"level":"info","time":"2025/07/05 21:34:54","message":"archive job count: 2"}
+{"level":"info","time":"2025/07/05 21:35:26","message":"starting job.."}
+{"level":"info","time":"2025/07/06 00:38:37","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 00:38:39","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 00:38:41","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 00:38:42","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 00:38:45","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 00:38:47","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 00:38:48","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 00:38:48","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 00:39:01","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 00:39:02","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 00:39:07","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 00:39:43","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 00:40:18","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 00:40:30","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 00:40:41","message":"Processing file: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 00:41:10","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 00:41:10","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 00:41:12","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 00:41:22","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:15:34","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:15:34","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:15:34","message":"CSV registry file ./processed_files.csv doesn't exist yet, will be created"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Processing file: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:15:34","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:15:34","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Created new CSV registry file: ./processed_files.csv"}
+{"level":"debug","time":"2025/07/06 01:15:34","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:15:34","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:16:17","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:16:17","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Processing file: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:16:17","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:16:17","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:16:17","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:16:17","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:32:02","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:32:02","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"File RECON_FILE_1016_20250706101010.txt already processed on date 20250706 (ProcessOnce=true), skipping"}
+{"level":"info","time":"2025/07/06 01:32:02","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:32:28","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:32:28","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:28","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:28","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:28","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:32:28","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:32:50","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:32:50","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:50","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:50","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:50","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:32:50","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:32:55","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:32:55","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:55","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:55","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:32:55","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:32:55","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:33:12","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:33:12","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"File RECON_FILE_1016_20250706101010.txt already processed on date 20250706 (ProcessOnce=true), skipping"}
+{"level":"info","time":"2025/07/06 01:33:12","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:33:38","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:33:38","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:38","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:38","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:38","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:33:38","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:33:50","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:33:50","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:50","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:50","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:33:50","message":"Added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:33:50","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:39:45","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:39:45","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Reading CSV file with 0 total lines"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Loaded date records for 0 dates"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"No date map found for 2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"File RECON_FILE_1016_20250706101010.txt not found in date registry for 20250706, proceeding with processing"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Adding file to registry: jobName=Job_1_COPY, filename=RECON_FILE_1016_20250706101010.txt, date=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Added to records map: key=RECON_FILE_1016_20250706101010.txt_Job_1_COPY"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:39:45","message":"Writing CSV record: [2025-07-06 01:39:45 Job_1_COPY RECON_FILE_1016_20250706101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt]"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Successfully added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:39:45","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:40:03","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:40:03","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Reading CSV file with 1 total lines"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"CSV Header: [2025-07-06 01:39:45 Job_1_COPY RECON_FILE_1016_20250706101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt]"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Loaded 0 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Loaded date records for 0 dates"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"No date map found for 2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"File RECON_FILE_1016_20250706101010.txt not found in date registry for 20250706, proceeding with processing"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Adding file to registry: jobName=Job_1_COPY, filename=RECON_FILE_1016_20250706101010.txt, date=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Added to records map: key=RECON_FILE_1016_20250706101010.txt_Job_1_COPY"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:03","message":"Writing CSV record: [2025-07-06 01:40:03 Job_1_COPY RECON_FILE_1016_20250706101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt]"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Successfully added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:40:03","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:40:09","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:40:09","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"CSV Header: [2025-07-06 01:39:45 Job_1_COPY RECON_FILE_1016_20250706101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt]"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"Loading record: DateTime=2025-07-06 01:40:03, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:09","message":"Date map exists for 2025-07-06, checking filename RECON_FILE_1016_20250706101010.txt: true"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"File RECON_FILE_1016_20250706101010.txt already processed on date 20250706 (ProcessOnce=true), skipping"}
+{"level":"info","time":"2025/07/06 01:40:09","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:40:43","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:40:43","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:40:43","message":"CSV registry file ./processed_files.csv doesn't exist yet, will be created"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"No date map found for 2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"File RECON_FILE_1016_20250706101010.txt not found in date registry for 20250706, proceeding with processing"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250706101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Adding file to registry: jobName=Job_1_COPY, filename=RECON_FILE_1016_20250706101010.txt, date=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Added to records map: key=RECON_FILE_1016_20250706101010.txt_Job_1_COPY"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"CSV file ./processed_files.csv does not exist, will create with header"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Created new CSV registry file with header: ./processed_files.csv"}
+{"level":"debug","time":"2025/07/06 01:40:43","message":"Writing CSV record: [2025-07-06 01:40:43 Job_1_COPY RECON_FILE_1016_20250706101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250706101010.txt]"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Successfully added file to CSV registry: RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Added file RECON_FILE_1016_20250706101010.txt to CSV registry"}
+{"level":"info","time":"2025/07/06 01:40:43","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 01:40:49","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 01:40:49","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"No arg1 passed using today's date: 20250706"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Looking for files matching pattern: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 01:40:49","message":"Date map exists for 2025-07-06, checking filename RECON_FILE_1016_20250706101010.txt: true"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"File RECON_FILE_1016_20250706101010.txt already processed on date 20250706 (ProcessOnce=true), skipping"}
+{"level":"info","time":"2025/07/06 01:40:49","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 13:56:58","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYMMDD*"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 13:56:58","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/07/06 13:56:58","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/07/06 13:56:58","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 13:56:58","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"No arg1 passed, using today's date"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Using YYMMDD format, date: 250706"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Final pattern after date replacement: RECON_FILE_1016_250706*"}
+{"level":"warn","time":"2025/07/06 13:56:58","message":"No files found matching pattern: RECON_FILE_1016_250706*"}
+{"level":"info","time":"2025/07/06 13:56:58","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/06 13:57:18","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1="}
+{"level":"info","time":"2025/07/06 13:57:18","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Starting file processing..."}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Processing job 1"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"No arg1 passed, using today's date"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Using YYYYMMDD format, date: 20250706"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Final pattern after date replacement: RECON_FILE_1016_20250706*"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Processing file: RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250706101010.txt was processed on date 20250706"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250706101010.txt, originalDate=20250706, convertedDate=2025-07-06"}
+{"level":"debug","time":"2025/07/06 13:57:18","message":"Date map exists for 2025-07-06, checking filename RECON_FILE_1016_20250706101010.txt: true"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"File RECON_FILE_1016_20250706101010.txt already processed on date 20250706 (ProcessOnce=true), skipping"}
+{"level":"info","time":"2025/07/06 13:57:18","message":"Job executed successfully"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/07/08 14:52:21","message":"fupm job count: 1"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1=Insert into FUPM (FUPM_SEQ_NB, FUPM_FILE_TYPE,FUPM_FILE_NAME, FUPM_NFILE_NAME, FUPM_FILE_EXT,FUPM_FILE_PATH, FUPM_FILE_SIZE, FUPM_STS, FUPM_PRCS_STS, FUPM_SUBM_TIME,FUPM_SUBM_USER_CD, FUPM_CMPLTD_TIME, FUPM_REC_PRCSD, FUPM_SUCCESS_CNT, FUPM_FAILED_CNT,FUPM_RES_FILE_NAME, FUPM_LOAD_REF_NO, FUPM_SERVER_NAME, FUPM_RECORD_TYPE) Values (FUPM_SEQ_NB.NEXTVAL, '311',FILENAME,NEWFILENAME, 'txt','LOCATION',FILESIZE, 'C', '',SYSDATE,'SYSTEM',SYSDATE,0,0,0,'', 'SYSTEM',SERVERNAME, 'U')"}
+{"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_PROCESS_ONCE1=true"}
