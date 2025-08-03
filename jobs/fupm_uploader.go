@@ -5,15 +5,16 @@ import (
 	"database/sql"
 	"encoding/csv"
 	"fmt"
-	"github.com/rs/zerolog/log"
-	go_ora "github.com/sijms/go-ora/v2"
-	"github.com/spf13/viper"
 	"io"
 	"os"
 	"path/filepath"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/rs/zerolog/log"
+	go_ora "github.com/sijms/go-ora/v2"
+	"github.com/spf13/viper"
 )
 
 var AppFlags models.Args
@@ -282,6 +283,8 @@ func InsertFupm(job models.FupmJob, fileName string) {
 	if err != nil {
 		log.Error().Err(err).Msgf("Failed to ping oracle service")
 		return
+	} else {
+		log.Info().Msg("Successfully pinged oracle service")
 	}
 	defer func() {
 		conn.Close()
@@ -291,9 +294,12 @@ func InsertFupm(job models.FupmJob, fileName string) {
 		"FILENAME":    fileName,
 		"NEWFILENAME": fileName,
 		"LOCATION":    job.FileTransferToPath,
-		"FILESIZE":
+		"FILESIZE":    "0",
 	}
-
+	query := job.FileUploadSqlScript
+	for key, value := range sqlQueryReplacements {
+		query = strings.ReplaceAll(query, key, value)
+	}
 }
 
 func copyFile(src, dst string) error {
