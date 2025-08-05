@@ -291,14 +291,21 @@ func InsertFupm(job models.FupmJob, fileName string) {
 	}()
 	log.Info().Msgf("inserting into fupm with %s", job.FileUploadSqlScript)
 	sqlQueryReplacements := map[string]string{
-		"FILENAME":    fileName,
-		"NEWFILENAME": fileName,
-		"LOCATION":    job.FileTransferToPath,
-		"FILESIZE":    "0",
+		"FILENAME": fmt.Sprintf("'%s'", fileName),
+		"LOCATION": job.FileTransferToPath,
+		"FILESIZE": "0",
 	}
 	query := job.FileUploadSqlScript
 	for key, value := range sqlQueryReplacements {
 		query = strings.ReplaceAll(query, key, value)
+	}
+
+	log.Info().Msgf("Executing SQL query: %s", query)
+	_, err = conn.Exec(query)
+	if err != nil {
+		log.Error().Err(err).Msgf("Failed to execute SQL query: %s", query)
+	} else {
+		log.Info().Msgf("Successfully executed SQL query")
 	}
 }
 

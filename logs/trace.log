@@ -1098,3 +1098,93 @@
 {"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
 {"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1=Insert into FUPM (FUPM_SEQ_NB, FUPM_FILE_TYPE,FUPM_FILE_NAME, FUPM_NFILE_NAME, FUPM_FILE_EXT,FUPM_FILE_PATH, FUPM_FILE_SIZE, FUPM_STS, FUPM_PRCS_STS, FUPM_SUBM_TIME,FUPM_SUBM_USER_CD, FUPM_CMPLTD_TIME, FUPM_REC_PRCSD, FUPM_SUCCESS_CNT, FUPM_FAILED_CNT,FUPM_RES_FILE_NAME, FUPM_LOAD_REF_NO, FUPM_SERVER_NAME, FUPM_RECORD_TYPE) Values (FUPM_SEQ_NB.NEXTVAL, '311',FILENAME,NEWFILENAME, 'txt','LOCATION',FILESIZE, 'C', '',SYSDATE,'SYSTEM',SYSDATE,0,0,0,'', 'SYSTEM',SERVERNAME, 'U')"}
 {"level":"info","time":"2025/07/08 14:52:21","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/08/03 18:56:44","message":"fupm job count: 1"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1=Insert into FUPM (FUPM_SEQ_NB, FUPM_FILE_TYPE,FUPM_FILE_NAME, FUPM_NFILE_NAME, FUPM_FILE_EXT,FUPM_FILE_PATH, FUPM_FILE_SIZE, FUPM_STS, FUPM_PRCS_STS, FUPM_SUBM_TIME,FUPM_SUBM_USER_CD, FUPM_CMPLTD_TIME, FUPM_REC_PRCSD, FUPM_SUCCESS_CNT, FUPM_FAILED_CNT,FUPM_RES_FILE_NAME, FUPM_LOAD_REF_NO, FUPM_SERVER_NAME, FUPM_RECORD_TYPE) Values (FUPM_SEQ_NB.NEXTVAL, '311',FILENAME,NEWFILENAME, 'txt','LOCATION',FILESIZE, 'C', '',SYSDATE,'SYSTEM',SYSDATE,0,0,0,'', 'SYSTEM',SERVERNAME, 'U')"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Starting file processing..."}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/08/03 18:56:44","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/08/03 18:56:44","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/08/03 18:56:44","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Processing job 1"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"No arg1 passed, using today's date"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Using YYYYMMDD format, date: 20250803"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Final pattern after date replacement: RECON_FILE_1016_20250803*"}
+{"level":"warn","time":"2025/08/03 18:56:44","message":"No files found matching pattern: RECON_FILE_1016_20250803*"}
+{"level":"info","time":"2025/08/03 18:56:44","message":"Job executed successfully"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/08/03 18:57:16","message":"fupm job count: 1"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1=Insert into FUPM (FUPM_SEQ_NB, FUPM_FILE_TYPE,FUPM_FILE_NAME, FUPM_NFILE_NAME, FUPM_FILE_EXT,FUPM_FILE_PATH, FUPM_FILE_SIZE, FUPM_STS, FUPM_PRCS_STS, FUPM_SUBM_TIME,FUPM_SUBM_USER_CD, FUPM_CMPLTD_TIME, FUPM_REC_PRCSD, FUPM_SUCCESS_CNT, FUPM_FAILED_CNT,FUPM_RES_FILE_NAME, FUPM_LOAD_REF_NO, FUPM_SERVER_NAME, FUPM_RECORD_TYPE) Values (FUPM_SEQ_NB.NEXTVAL, '311',FILENAME,NEWFILENAME, 'txt','LOCATION',FILESIZE, 'C', '',SYSDATE,'SYSTEM',SYSDATE,0,0,0,'', 'SYSTEM',SERVERNAME, 'U')"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Starting file processing..."}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/08/03 18:57:16","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/08/03 18:57:16","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/08/03 18:57:16","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Processing job 1"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"No arg1 passed, using today's date"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Using YYYYMMDD format, date: 20250803"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Final pattern after date replacement: RECON_FILE_1016_20250803*"}
+{"level":"warn","time":"2025/08/03 18:57:16","message":"No files found matching pattern: RECON_FILE_1016_20250803*"}
+{"level":"info","time":"2025/08/03 18:57:16","message":"Job executed successfully"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Starting fupm uploader.."}
+{"level":"info","time":"2025/08/03 18:57:43","message":"fupm job count: 1"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"parsing job details for job 1"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_FILE_PATTERN1=RECON_FILE_1016_YYYYMMDD*"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_FILE_TRANSFER_TYPE1=COPY"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_FILE_FROM_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_FILE_TO_PATH1=/Users/ashwin/Projects/golang/CSEFileManager/test/"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_FILE_UPLOAD_SQL_SCRIPT1=Insert into FUPM (FUPM_SEQ_NB, FUPM_FILE_TYPE,FUPM_FILE_NAME, FUPM_NFILE_NAME, FUPM_FILE_EXT,FUPM_FILE_PATH, FUPM_FILE_SIZE, FUPM_STS, FUPM_PRCS_STS, FUPM_SUBM_TIME,FUPM_SUBM_USER_CD, FUPM_CMPLTD_TIME, FUPM_REC_PRCSD, FUPM_SUCCESS_CNT, FUPM_FAILED_CNT,FUPM_RES_FILE_NAME, FUPM_LOAD_REF_NO, FUPM_SERVER_NAME, FUPM_RECORD_TYPE) Values (FUPM_SEQ_NB.NEXTVAL, '311',FILENAME,NEWFILENAME, 'txt','LOCATION',FILESIZE, 'C', '',SYSDATE,'SYSTEM',SYSDATE,0,0,0,'', 'SYSTEM',SERVERNAME, 'U')"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"FUPM_PROCESS_ONCE1=true"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Starting file processing..."}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Reading CSV file with 2 total lines"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"CSV Header: [DateTime JobName FileName NewFilePath]"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Loading record: DateTime=2025-07-06 01:40:43, JobName=Job_1_COPY, FileName=RECON_FILE_1016_20250706101010.txt"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Added to dateRecords: date=2025-07-06, filename=RECON_FILE_1016_20250706101010.txt"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Loaded 1 processed file records from CSV"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Loaded date records for 1 dates"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Using CSV registry: ./processed_files.csv"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Processing job 1"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Processing files for job 1 from /Users/ashwin/Projects/golang/CSEFileManager/test/from/"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"No arg1 passed, using today's date"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Using YYYYMMDD format, date: 20250803"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Final pattern after date replacement: RECON_FILE_1016_20250803*"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Found 1 files matching pattern"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Processing file: RECON_FILE_1016_20250803101010.txt"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"ProcessOnce=true, checking if file RECON_FILE_1016_20250803101010.txt was processed on date 20250803"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Checking IsProcessedOnDate: filename=RECON_FILE_1016_20250803101010.txt, originalDate=20250803, convertedDate=2025-08-03"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"No date map found for 2025-08-03"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"File RECON_FILE_1016_20250803101010.txt not found in date registry for 20250803, proceeding with processing"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Copying file from /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250803101010.txt to /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250803101010.txt"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Copied 0 bytes"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Successfully copied: /Users/ashwin/Projects/golang/CSEFileManager/test/from/RECON_FILE_1016_20250803101010.txt -> /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250803101010.txt"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Adding file to registry: jobName=Job_1_COPY, filename=RECON_FILE_1016_20250803101010.txt, date=2025-08-03"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Added to records map: key=RECON_FILE_1016_20250803101010.txt_Job_1_COPY"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Added to dateRecords: date=2025-08-03, filename=RECON_FILE_1016_20250803101010.txt"}
+{"level":"debug","time":"2025/08/03 18:57:43","message":"Writing CSV record: [2025-08-03 18:57:43 Job_1_COPY RECON_FILE_1016_20250803101010.txt /Users/ashwin/Projects/golang/CSEFileManager/test/RECON_FILE_1016_20250803101010.txt]"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Successfully added file to CSV registry: RECON_FILE_1016_20250803101010.txt"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"Added file RECON_FILE_1016_20250803101010.txt to CSV registry"}
+{"level":"info","time":"2025/08/03 18:57:43","message":"SQL Script found... starting insert job..."}
+{"level":"info","time":"2025/08/03 18:57:45","message":"Initiating oracle SQL connection for job 1"}
+{"level":"info","time":"2025/08/03 18:57:46","message":"Oracle service name not found... building connection with SID"}
+{"level":"error","error":"empty connection servers","time":"2025/08/03 18:57:57","message":"Failed to ping oracle service"}
+{"level":"info","time":"2025/08/03 18:58:03","message":"Job executed successfully"}
